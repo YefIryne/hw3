@@ -25,8 +25,14 @@ p b {
 }
 
 div > span {
+    color: #3f37c9;
+}
+p[lang] {
     color: #4361ee;
 }
-[lang="korean"] {
+h4 ~ h5 {
     color: #4895ef;
 }
+/* * {
+    color: #4cc9f0;
+} */
