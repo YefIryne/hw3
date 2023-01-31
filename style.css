@@ -1,0 +1,32 @@
+h3 {
+    color: #f72585;
+}
+#idSelector {
+    color: #b5179e;
+}
+.classname {
+    color: #7209b7;
+}
+.firstClassname {
+    color: #3a0ca3;
+}
+.secondClassname {
+    color: #480ca8;
+}
+.thirdClassname {
+    color: #560bad;
+}
+p b {
+    color: #480ca8;
+}
+
+.first + .second {
+    color: #3a0ca3;
+}
+
+div > span {
+    color: #4361ee;
+}
+[lang="korean"] {
+    color: #4895ef;
+}
